@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">iTunes App</string>
+    <string name="title">Title:</string>
+    <string name="artist">Artist:</string>
+    <string name="price">Price:</string>
+    <string name="genre">Genre:</string>
+    <string name="searchArtist">Search by artist</string>
+    <string name="search">Search</string>
+</resources>
